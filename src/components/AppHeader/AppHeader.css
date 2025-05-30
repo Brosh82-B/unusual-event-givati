@@ -1,0 +1,16 @@
+.header {
+  background-color: #1b1b63;
+  text-align: center;
+}
+
+.logo-container img {
+  max-height: 5vh;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+
+.logo-container {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 1.5em;
+}

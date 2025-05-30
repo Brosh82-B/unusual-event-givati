@@ -1,0 +1,20 @@
+.footer {
+  background-color: #1b1b63;
+  padding: 10px;
+  color: white;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10%;
+  text-align: center;
+}
+
+.image-container img {
+  max-width: 15vw;
+  border-radius: 15px;
+}
+
+.link {
+  color: white;
+}
