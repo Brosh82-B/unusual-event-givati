@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/unusual-event-givati/static/css/main.a5f8316b.css",
-    "main.js": "/unusual-event-givati/static/js/main.51e7b440.js",
+    "main.css": "/unusual-event-givati/static/css/main.ccc264e2.css",
+    "main.js": "/unusual-event-givati/static/js/main.94a83fb6.js",
     "static/media/Logo.png": "/unusual-event-givati/static/media/Logo.8e310a23706d769111d6.png",
     "static/media/Logo2.png": "/unusual-event-givati/static/media/Logo2.037e655ca9ec07289257.png",
     "static/media/notification.svg?s3g3t9": "/unusual-event-givati/static/media/notification.5d0158671dd860c714c4.svg",
@@ -9,11 +9,11 @@
     "static/media/notification.woff?s3g3t9": "/unusual-event-givati/static/media/notification.c392cd33d9d9de730f9d.woff",
     "static/media/notification.ttf?s3g3t9": "/unusual-event-givati/static/media/notification.c5d9251ea82e42f75381.ttf",
     "index.html": "/unusual-event-givati/index.html",
-    "main.a5f8316b.css.map": "/unusual-event-givati/static/css/main.a5f8316b.css.map",
-    "main.51e7b440.js.map": "/unusual-event-givati/static/js/main.51e7b440.js.map"
+    "main.ccc264e2.css.map": "/unusual-event-givati/static/css/main.ccc264e2.css.map",
+    "main.94a83fb6.js.map": "/unusual-event-givati/static/js/main.94a83fb6.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5f8316b.css",
-    "static/js/main.51e7b440.js"
+    "static/css/main.ccc264e2.css",
+    "static/js/main.94a83fb6.js"
   ]
 }
